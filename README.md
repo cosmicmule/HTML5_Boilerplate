@@ -1,4 +1,4 @@
-# HTML5_Boilerplate
+# html5-ad
 
 Automation, through Grunt, for a basic HTML5 ad.
 
@@ -34,6 +34,4 @@ Conversant, etc.  Currently only setup for Sizmek.
 - Generator to build framework/boilerplate for common sizes.
 - Autoreload.
 - Add jshint, basic functionality tests.
-
-
 
